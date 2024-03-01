@@ -1,3 +1,5 @@
+//Dale Martin Asiddao
+//CMSC 100 
 function validatePassword(pw1, pw2) {
   //this function checks if the passwords match
   if (pw1 !== pw2) {
